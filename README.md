@@ -39,16 +39,7 @@ I’m constantly improving my skills and working on new analytics projects using
 
 ---
 
-## 📚 Portfolio Projects  
-
-### ✔️ **1️⃣ Chocolate Sales Analysis – Power BI**  
-A complete analysis of chocolate sales across regions, products, and salespersons.
-
-🔍 **Insights Included:**  
-- Sales trends  
-- Top-performing products  
-- Salesperson performance  
-- Regional analysis  
+## 📚 Portfolio Projects
 
 📎 **Screenshot(s):**  
 👉 [`Dashboards Folder`](https://github.com/seliacolaco/Data-analytics-Portfolio/tree/main/Dashboards)
@@ -56,7 +47,7 @@ A complete analysis of chocolate sales across regions, products, and salesperson
 ---
 
 ## 🖼️ Future Project Screenshots  
-I will continue adding more screenshots of:  
+I will be adding screenshots of:  
 - **Power BI dashboards**  
 - **Excel dashboards**  
 - **Data visualizations**  
